@@ -1,6 +1,8 @@
 # VidCapLib
 
-VidCapLib is a branch of: OpenPnP Capture.  (https://raw.githubusercontent.com/openpnp)
+VidCapLib is a branch of: OpenPnP Capture.  
+	https://raw.githubusercontent.com/openpnp
+	https://github.com/openpnp/VidCapLib
 
 It is cross platform native video capture library for C/cpp with a focus on machine vision. Its goals are:
 
@@ -40,7 +42,7 @@ Examples:
 
 See below for information about Building VidCapLib. 
 
-Documentation for VidCapLib needs improvement. We would love your [help!](https://github.com/openpnp/VidCapLib/edit/master/README.md)
+Documentation for VidCapLib needs improvement. We would love your [help!](https://github.com/htartisan/VidCapLib/edit/master/README.md)
 
 
 # Building VidCapLib
@@ -71,7 +73,7 @@ Run 'bootstrap_linux.sh'. Run make.
 
 
 # Releases
-Releases are built automatically for new tags on all supported platforms using [Github Actions](https://github.com/openpnp/VidCapLib/blob/master/.github/workflows/build.yml). See https://github.com/openpnp/VidCapLib/releases/latest to download the latest.
+Releases are built automatically for new tags on all supported platforms using [Github Actions]((https://github.com/htartisan/VidCapLib)/blob/master/.github/workflows/build.yml). See https://github.com/htartisan/VidCapLib/releases/latest to download the latest.
 
 # Platform Notes
 
