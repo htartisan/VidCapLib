@@ -1,5 +1,8 @@
 # VidCapLib
-VidCapLib is a cross platform video capture library for C with a focus on machine vision. Its goals are:
+
+VidCapLib is a branch of OpenPnP Capture.  (https://raw.githubusercontent.com/openpnp)
+
+It is cross platform native video capture library for C/cpp with a focus on machine vision. Its goals are:
 
 * Native camera access on Windows, Linux and Mac. Implemented with DirectShow, V4L2 and AVFoundation respectively.
 * Named device enumeration.
