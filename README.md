@@ -1,6 +1,6 @@
 # VidCapLib
 
-VidCapLib is a branch of OpenPnP Capture.  (https://raw.githubusercontent.com/openpnp)
+VidCapLib is a branch of: OpenPnP Capture.  (https://raw.githubusercontent.com/openpnp)
 
 It is cross platform native video capture library for C/cpp with a focus on machine vision. Its goals are:
 
