@@ -9,7 +9,7 @@ It is cross platform native video capture library for C/cpp with a focus on mach
 * Native camera access on Windows, Linux and Mac. Implemented with DirectShow, V4L2 and AVFoundation respectively.
 * Named device enumeration.
 * Strong, repeatable, unique IDs.
-* Format control with support for at least YUY2 (YUV 4:2:2) and MJPEG. Compressed formats such as MJPEG allow the use of multiple USB cameras on a hub or root controller.
+* Format control with support for at least YUV (4:2:2) and MJPEG. Compressed formats such as MJPEG allow the use of multiple USB cameras on a hub or root controller.
 * Auto and manual exposure control.
 * Auto and manual focus control.
 * Simple, common C wrapper for the listed APIs.
